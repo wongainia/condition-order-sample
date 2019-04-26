@@ -1,0 +1,26 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="5" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="6" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>

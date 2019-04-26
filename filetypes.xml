@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="APIException" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="original" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="txt" type="lua" />
+    </extensionMap>
+  </component>
+</application>
