@@ -1,9 +1,0 @@
-<application>
-  <component name="MavenPluginAppComponent">
-    <option name="fMavenPath" value="maven.bat" />
-    <option name="fNameFormat" value="$artifactId-$version" />
-    <option name="fJ2eePackagingMethodId" value="copy files" />
-    <option name="fPomSplitterPos" value="50" />
-    <option name="fGoalsSplitterPos" value="50" />
-  </component>
-</application>
